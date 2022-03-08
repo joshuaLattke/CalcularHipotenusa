@@ -1,0 +1,7 @@
+Calculo de Hipotenusa
+Momento de compilar y ejecutar 
+nos paramos en la carpeta esta adentro  el archivo de java
+le undimos clic derecho+shift aparece la opción de powershell
+compilamos con javac Hipotenusa
+se compila normal 
+ejecutando: se escribe en la terminal cd.., luego java ui/Hipotenusa
